@@ -2,7 +2,7 @@
 
 Unreal Engine, C++, DirectX 기반 게임 클라이언트 개발 경험을 정리한 포트폴리오입니다. 구현 사례와 프로젝트 이력은 아래 PDF에서 확인할 수 있습니다.
 
-**[포트폴리오 PDF 보기](./SeoHyojin_Portfolio.pdf)**
+[포트폴리오 PDF 보기](./SeoHyojin_Portfolio.pdf)
 
 ## 코드 샘플
 
